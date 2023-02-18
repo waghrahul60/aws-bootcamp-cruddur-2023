@@ -1,7 +1,7 @@
 # Week 0 — Billing and Architecturegit
 
 ## Infrastructure Diagram
-![Infrastructure Diagram] (assets/BootCampLogicalIfra.png)
+![Infrastructure Diagram](assets/BootCampLogicalIfra.png)
 
 [To view infra diagram on lucid chart](https://lucid.app/lucidchart/4128cae8-59cf-4e58-955d-93dcf9f66230/edit?viewport_loc=-424%2C-1365%2C2994%2C1481%2C0_0&invitationId=inv_05b99143-8c8f-46b9-b980-b46f635447dd)
 ### Required Homework
